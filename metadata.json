@@ -1,0 +1,6 @@
+{
+  "name": "AegisAR - Industrial Safety Training & Certification",
+  "description": "Admin dashboard for AR-based industrial safety training, worker progress tracking, evaluations, and compliance certifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
